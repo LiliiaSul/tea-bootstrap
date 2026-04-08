@@ -17,17 +17,6 @@ $(document).ready(function () {
     });
 
 
-    $(function () {
-        $("#accordion").accordion({
-            collapsible: true,
-            heightStyle: "content",
-            icons: {
-                header: "ui-icon-down",
-                activeHeader: "ui-icon-up",
-            }
-        });
-    });
-
     let formHeader = $('.form-header')
     let orderForm = $('#order-form');
     let inputName = $('#inputName');

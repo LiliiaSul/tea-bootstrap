@@ -42,24 +42,32 @@
     background-color: #045ce1;
 }
 
+.custom-accordion .accordion-item {
+    border: 0;
+    background: transparent;
+}
 
-.ui-icon-down, .ui-icon-up {
-    content: '';
-    position: absolute;
+.custom-accordion .accordion-button,
+.custom-accordion .accordion-button:not(.collapsed) {
+    color: #fff;
+    background-color: var(--bs-primary);
+    background-image: var(--bs-gradient);
+    box-shadow: none;
+}
+
+.custom-accordion .accordion-button::after {
+    background-image: url("../assets/up.svg");
+    background-size: 20px 20px;
     width: 20px;
     height: 20px;
-    top: calc(50% - 10px);
+    transform: none;
+    transition: none;
+    filter: none;
 }
 
-
-.ui-icon-up {
-    right: 15px;
-    background-image: url("../assets/up.svg") !important;
-}
-
-.ui-icon-down {
-    right: 15px;
-    background-image: url("../assets/down.svg") !important;
+.custom-accordion .accordion-button.collapsed::after {
+    background-image: url("../assets/down.svg");
+    transform: none;
 }
 
 
