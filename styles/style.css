@@ -77,6 +77,10 @@
 
 
 @media screen and (max-width: 767px) {
+    .custom-accordion.w-75 {
+        width: 100% !important;
+    }
+
     form.w-50 {
         width: 100% !important;
     }
