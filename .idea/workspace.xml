@@ -5,48 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fcb6aa8-ac7e-4551-acca-92b8c3bbbd05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/chay-s-apelsinom-sayt-2 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/down.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image 3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image 4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image 5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image 6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/next-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/next.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/prev-white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/prev.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/up.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Баннер2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Баннер3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/jquery-3.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/jquery.inputmask.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/slick.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/fonts/slick.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/fonts/slick.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/fonts/slick.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/hover-min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_444444_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_555555_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_777620_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_777777_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_cc0000_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_ffffff_256x240.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/jquery-ui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,6 +146,7 @@
       <workItem from="1775458955855" duration="19000" />
       <workItem from="1775462008751" duration="868000" />
       <workItem from="1775644482695" duration="226000" />
+      <workItem from="1775644750212" duration="694000" />
     </task>
     <servers />
   </component>
