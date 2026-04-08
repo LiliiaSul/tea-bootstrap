@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8fcb6aa8-ac7e-4551-acca-92b8c3bbbd05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/chay-s-apelsinom-sayt-2 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/image 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/next-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/next.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/prev-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/prev.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/up.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Баннер2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Баннер3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/jquery-3.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/jquery.inputmask.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/jquery.magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/hover-min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_444444_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_555555_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_777620_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_777777_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_cc0000_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/images/ui-icons_ffffff_256x240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/ls/Documents/projects/bootstrap-tea" value="2zgEs88FLxBtspxy64CzalXpENx" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2zgEs88FLxBtspxy64CzalXpENx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ls/Documents/projects/bootstrap-tea&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/styles" />
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-WS-261.22158.274" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8fcb6aa8-ac7e-4551-acca-92b8c3bbbd05" name="Changes" comment="" />
+      <created>1752144519816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752144519816</updated>
+      <workItem from="1752144520862" duration="28273000" />
+      <workItem from="1752217471474" duration="8890000" />
+      <workItem from="1752226464801" duration="168000" />
+      <workItem from="1752229869264" duration="3661000" />
+      <workItem from="1752233667619" duration="19107000" />
+      <workItem from="1752482651954" duration="2364000" />
+      <workItem from="1752489778405" duration="358000" />
+      <workItem from="1752490487260" duration="10000" />
+      <workItem from="1752490719899" duration="12000" />
+      <workItem from="1752490833098" duration="65000" />
+      <workItem from="1752492555066" duration="8000" />
+      <workItem from="1752493780275" duration="14000" />
+      <workItem from="1752497908924" duration="69000" />
+      <workItem from="1752498002644" duration="8000" />
+      <workItem from="1752498288872" duration="697000" />
+      <workItem from="1752504419404" duration="13000" />
+      <workItem from="1752504699951" duration="8000" />
+      <workItem from="1752506183205" duration="7000" />
+      <workItem from="1752852890901" duration="4241000" />
+      <workItem from="1754309849195" duration="6000" />
+      <workItem from="1754314466621" duration="100000" />
+      <workItem from="1754316186090" duration="70000" />
+      <workItem from="1754316529104" duration="715000" />
+      <workItem from="1754319668017" duration="54000" />
+      <workItem from="1754390487105" duration="447000" />
+      <workItem from="1754411480158" duration="1791000" />
+      <workItem from="1754414399137" duration="12000" />
+      <workItem from="1754417747726" duration="73000" />
+      <workItem from="1754418999259" duration="29000" />
+      <workItem from="1754420070232" duration="140000" />
+      <workItem from="1754420263325" duration="67000" />
+      <workItem from="1754464017432" duration="96000" />
+      <workItem from="1754492787584" duration="3056000" />
+      <workItem from="1754589455465" duration="319000" />
+      <workItem from="1754593989033" duration="101000" />
+      <workItem from="1755255651911" duration="8000" />
+      <workItem from="1755255723505" duration="10000" />
+      <workItem from="1767794205984" duration="88000" />
+      <workItem from="1767796126802" duration="461000" />
+      <workItem from="1767797552563" duration="686000" />
+      <workItem from="1767798482802" duration="15000" />
+      <workItem from="1767813328652" duration="27000" />
+      <workItem from="1767814037013" duration="30000" />
+      <workItem from="1767857289640" duration="79000" />
+      <workItem from="1767985163534" duration="21000" />
+      <workItem from="1768036498728" duration="47000" />
+      <workItem from="1768036680604" duration="8000" />
+      <workItem from="1768052612466" duration="60000" />
+      <workItem from="1768063729783" duration="187000" />
+      <workItem from="1771333219264" duration="149000" />
+      <workItem from="1775153262330" duration="24000" />
+      <workItem from="1775203602797" duration="434000" />
+      <workItem from="1775204464715" duration="1404000" />
+      <workItem from="1775207002964" duration="38000" />
+      <workItem from="1775207106160" duration="106000" />
+      <workItem from="1775207388039" duration="1745000" />
+      <workItem from="1775214310127" duration="516000" />
+      <workItem from="1775216359033" duration="88000" />
+      <workItem from="1775302404252" duration="30000" />
+      <workItem from="1775302498355" duration="15000" />
+      <workItem from="1775302989396" duration="7000" />
+      <workItem from="1775458955855" duration="19000" />
+      <workItem from="1775462008751" duration="868000" />
+      <workItem from="1775644482695" duration="226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
